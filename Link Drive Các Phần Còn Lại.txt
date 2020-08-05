@@ -1,0 +1,12 @@
+Trong link drive bao gồm các phần còn lại của báo cáo:
+- Các file script (file .sql)
+
+- Source code chương trình
+
+- File hướng dẫn cài đặt chương trình
+
+- File video các chức năng của Form & Report,
+ các tình huống xử lý truy xuất đồng thời ở mức 
+hệ quản trị Oracle và mức chương trình.
+
+Link: https://drive.google.com/drive/folders/14X1rVdXGVYUijxMXpaD3YU8BW86ILyIH?usp=sharing
